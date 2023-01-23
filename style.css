@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(148, 47, 192);
+    background-image: url(./Store.png);
+    /* background-repeat:round; */
+
+    /* image-orientation: rad; */
+    background-size: 1200px;
+  }
+  
+  #text {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  #game {
+    max-width: 500px;
+    max-height: 400px;
+    background-color: rgb(214, 124, 46);
+    color: white;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  #controls {
+    border: 1px black solid;
+    padding: 5px;
+  }
+  #button1,#button2, #button3{
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #stats {
+    border: 1px black solid;
+    color: black;
+    padding: 5px;
+  }
+  
+  #monsterStats {
+    display: none;
+    border: 1px black solid;
+    color: white;
+    padding: 5px;
+    background-color: red;
+  }
+  
+  .stat {
+    padding-right: 10px;
+  }
