@@ -1,4 +1,7 @@
 # Game-using-HTML_CSS_JS
 
+#Output
 
-<img src="https://drive.google.com/file/d/1kgsYzpM717KoSvkh9Qa71bQaN9Aeu6ij/view?usp=share_link" alt="" height = "100%">
+
+
+<img width="960" alt="game1" src="https://user-images.githubusercontent.com/90249532/214021387-3ee42507-73e3-45b2-9832-167c9dc59369.png">
